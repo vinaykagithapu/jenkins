@@ -5,3 +5,6 @@ Jenkins is an open source automation server. It helps automate the parts of soft
 ## Installation
 1. [Click here](https://github.com/vinaykagithapu/dockerDepolyments/blob/main/jenkins/README.md) to install jenkins on docker.
 2. [Click here](https://github.com/vinaykagithapu/kubernetesDeployments/tree/main/helm/jenkins) to deploy the jenkins helm chart in kubernetes cluster. 
+
+## Post Installation
+1. [Click here](jenkinsWithAAD/README.md) to configure jenkins with Azure Active Directory for authentication and authorization.

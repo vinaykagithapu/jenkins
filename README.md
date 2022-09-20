@@ -8,3 +8,4 @@ Jenkins is an open source automation server. It helps automate the parts of soft
 
 ## Post Installation
 1. [Click here](jenkinsWithAAD/README.md) to configure jenkins with Azure Active Directory for authentication and authorization.
+2. [Click here](jenkinsWithK8s/README.md) to configure jenkins to run builds in kubernetes pods.

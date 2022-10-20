@@ -14,3 +14,4 @@ Jenkins is an open source automation server. It helps automate the parts of soft
 1. [Click here](sampleProject/README.md) to create a sample project.
 2. [Click here](sampleProjectBuildOnK8s/README.md) to create a project to run java app with in the kubernetes pods. 
 3. [Click here](pipelineProject/README.md) to create a sample pipeline.
+4. [Click here](./dockerCredsVault/README.md) to create a pipeline that build docker image and push to dockerhub using credentials stored in vault.
